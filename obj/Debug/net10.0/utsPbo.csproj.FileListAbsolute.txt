@@ -1,0 +1,15 @@
+/home/podistrict/Projects/02-languages/csharp/01_Introduction/4_uts-pbo/utsPbo/obj/Debug/net10.0/utsPbo.GeneratedMSBuildEditorConfig.editorconfig
+/home/podistrict/Projects/02-languages/csharp/01_Introduction/4_uts-pbo/utsPbo/obj/Debug/net10.0/utsPbo.AssemblyInfoInputs.cache
+/home/podistrict/Projects/02-languages/csharp/01_Introduction/4_uts-pbo/utsPbo/obj/Debug/net10.0/utsPbo.AssemblyInfo.cs
+/home/podistrict/Projects/02-languages/csharp/01_Introduction/4_uts-pbo/utsPbo/obj/Debug/net10.0/utsPbo.csproj.CoreCompileInputs.cache
+/home/podistrict/Projects/02-languages/csharp/01_Introduction/4_uts-pbo/utsPbo/obj/Debug/net10.0/utsPbo.sourcelink.json
+/home/podistrict/Projects/02-languages/csharp/01_Introduction/4_uts-pbo/utsPbo/bin/Debug/net10.0/utsPbo
+/home/podistrict/Projects/02-languages/csharp/01_Introduction/4_uts-pbo/utsPbo/bin/Debug/net10.0/utsPbo.deps.json
+/home/podistrict/Projects/02-languages/csharp/01_Introduction/4_uts-pbo/utsPbo/bin/Debug/net10.0/utsPbo.runtimeconfig.json
+/home/podistrict/Projects/02-languages/csharp/01_Introduction/4_uts-pbo/utsPbo/bin/Debug/net10.0/utsPbo.dll
+/home/podistrict/Projects/02-languages/csharp/01_Introduction/4_uts-pbo/utsPbo/bin/Debug/net10.0/utsPbo.pdb
+/home/podistrict/Projects/02-languages/csharp/01_Introduction/4_uts-pbo/utsPbo/obj/Debug/net10.0/utsPbo.dll
+/home/podistrict/Projects/02-languages/csharp/01_Introduction/4_uts-pbo/utsPbo/obj/Debug/net10.0/refint/utsPbo.dll
+/home/podistrict/Projects/02-languages/csharp/01_Introduction/4_uts-pbo/utsPbo/obj/Debug/net10.0/utsPbo.pdb
+/home/podistrict/Projects/02-languages/csharp/01_Introduction/4_uts-pbo/utsPbo/obj/Debug/net10.0/utsPbo.genruntimeconfig.cache
+/home/podistrict/Projects/02-languages/csharp/01_Introduction/4_uts-pbo/utsPbo/obj/Debug/net10.0/ref/utsPbo.dll

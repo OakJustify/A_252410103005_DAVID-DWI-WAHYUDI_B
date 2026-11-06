@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "ETYqbO0FKf0=",
+  "success": true,
+  "projectFilePath": "/home/podistrict/Projects/02-languages/csharp/01_Introduction/4_uts-pbo/utsPbo/utsPbo.csproj",
+  "expectedPackageFiles": [
+    "/home/podistrict/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.14/microsoft.aspnetcore.app.ref.10.0.14.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json.",
+      "projectPath": "/home/podistrict/Projects/02-languages/csharp/01_Introduction/4_uts-pbo/utsPbo/utsPbo.csproj",
+      "warningLevel": 1,
+      "filePath": "/home/podistrict/Projects/02-languages/csharp/01_Introduction/4_uts-pbo/utsPbo/utsPbo.csproj",
+      "targetGraphs": []
+    }
+  ]
+}
